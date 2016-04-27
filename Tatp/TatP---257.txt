@@ -1,0 +1,3619 @@
+<PRE>
+>tr_B2RAG5_B2RAG5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.147   0.51   NO
+  max. Y    21       0.175   0.35   NO
+  max. S     6       0.625   0.75   NO
+  mean S     1-20    0.308   0.30   YES
+  max. D     1-20    0.241   0.36   NO
+# Most likely cleavage site between pos. 20 and 21: PSA-VV
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5Y7C2_Q5Y7C2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.472   0.51   NO
+  max. Y    30       0.272   0.35   NO
+  max. S    23       0.614   0.75   NO
+  mean S     1-29    0.136   0.30   NO
+  max. D     1-29    0.204   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2RBF7_B2RBF7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    41       0.508   0.51   NO
+  max. Y    22       0.081   0.35   NO
+  max. S     5       0.362   0.75   NO
+  mean S     1-21    0.139   0.30   NO
+  max. D     1-21    0.110   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R9J8_B2R9J8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.151   0.51   NO
+  max. Y    29       0.150   0.35   NO
+  max. S     3       0.782   0.75   YES
+  mean S     1-28    0.322   0.30   YES
+  max. D     1-28    0.236   0.36   NO
+# Most likely cleavage site between pos. 28 and 29: MDL-TT
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C7FDR8_C7FDR8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.133   0.51   NO
+  max. Y    18       0.144   0.35   NO
+  max. S     8       0.671   0.75   NO
+  mean S     1-17    0.305   0.30   YES
+  max. D     1-17    0.225   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4NBT9_F4NBT9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.165   0.51   NO
+  max. Y    43       0.112   0.35   NO
+  max. S    31       0.322   0.75   NO
+  mean S     1-42    0.076   0.30   NO
+  max. D     1-42    0.094   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DEY5_B4DEY5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.541   0.51   YES
+  max. Y    29       0.442   0.35   YES
+  max. S    13       0.662   0.75   NO
+  mean S     1-28    0.382   0.30   YES
+  max. D     1-28    0.412   0.36   YES
+# Most likely cleavage site between pos. 28 and 29: AKA-IC
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5GWZ9_F5GWZ9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.233   0.51   NO
+  max. Y    12       0.073   0.35   NO
+  max. S     1       0.157   0.75   NO
+  mean S     1-11    0.052   0.30   NO
+  max. D     1-11    0.063   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DJH7_B4DJH7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.160   0.51   NO
+  max. Y    30       0.174   0.35   NO
+  max. S     4       0.618   0.75   NO
+  mean S     1-29    0.285   0.30   NO
+  max. D     1-29    0.229   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5GX99_F5GX99_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    69       0.240   0.51   NO
+  max. Y    85       0.185   0.35   NO
+  max. S    61       0.733   0.75   NO
+  mean S     1-84    0.288   0.30   NO
+  max. D     1-84    0.236   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H3X1_F5H3X1_HUM  length = 70
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.187   0.51   NO
+  max. Y    14       0.060   0.35   NO
+  max. S    11       0.103   0.75   NO
+  mean S     1-13    0.046   0.30   NO
+  max. D     1-13    0.053   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2RDR6_B2RDR6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.296   0.51   NO
+  max. Y    41       0.229   0.35   NO
+  max. S     1       0.705   0.75   NO
+  mean S     1-40    0.278   0.30   NO
+  max. D     1-40    0.254   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4MHG5_F4MHG5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    46       0.202   0.51   NO
+  max. Y    30       0.087   0.35   NO
+  max. S    14       0.229   0.75   NO
+  mean S     1-29    0.059   0.30   NO
+  max. D     1-29    0.073   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H7S0_F5H7S0_HUM  length = 63
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.269   0.51   NO
+  max. Y    12       0.098   0.35   NO
+  max. S     2       0.220   0.75   NO
+  mean S     1-11    0.101   0.30   NO
+  max. D     1-11    0.099   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H5P6_F5H5P6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.121   0.51   NO
+  max. Y    64       0.137   0.35   NO
+  max. S    50       0.787   0.75   YES
+  mean S     1-63    0.323   0.30   YES
+  max. D     1-63    0.230   0.36   NO
+# Most likely cleavage site between pos. 63 and 64: FNG-GR
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H5I6_F5H5I6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.482   0.51   NO
+  max. Y    43       0.447   0.35   YES
+  max. S    36       0.722   0.75   NO
+  mean S     1-42    0.369   0.30   YES
+  max. D     1-42    0.408   0.36   YES
+# Most likely cleavage site between pos. 42 and 43: ALR-AS
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H7J3_F5H7J3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.431   0.51   NO
+  max. Y    35       0.090   0.35   NO
+  max. S     3       0.172   0.75   NO
+  mean S     1-34    0.061   0.30   NO
+  max. D     1-34    0.076   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F1AQR5_F1AQR5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.136   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.343   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_U3KQT1_U3KQT1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.634   0.51   YES
+  max. Y    32       0.422   0.35   YES
+  max. S    28       0.718   0.75   NO
+  mean S     1-31    0.320   0.30   YES
+  max. D     1-31    0.371   0.36   YES
+# Most likely cleavage site between pos. 31 and 32: AFA-PI
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4YU29_F4YU29_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.158   0.35   NO
+  max. S     8       0.729   0.75   NO
+  mean S     1-17    0.401   0.30   YES
+  max. D     1-17    0.280   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A0MRD9_A0A0A0  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.303   0.51   NO
+  max. Y    27       0.348   0.35   NO
+  max. S     9       0.801   0.75   YES
+  mean S     1-26    0.528   0.30   YES
+  max. D     1-26    0.438   0.36   YES
+# Most likely cleavage site between pos. 26 and 27: CFA-TS
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JYR7_C9JYR7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    57       0.227   0.51   NO
+  max. Y     3       0.030   0.35   NO
+  max. S     1       0.042   0.75   NO
+  mean S     1-2     0.038   0.30   NO
+  max. D     1-2     0.034   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I7H475_I7H475_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.165   0.35   NO
+  max. S     8       0.757   0.75   YES
+  mean S     1-17    0.416   0.30   YES
+  max. D     1-17    0.290   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H127_F5H127_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    53       0.120   0.51   NO
+  max. Y    53       0.163   0.35   NO
+  max. S     2       0.533   0.75   NO
+  mean S     1-52    0.202   0.30   NO
+  max. D     1-52    0.182   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H581_F5H581_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    46       0.165   0.51   NO
+  max. Y    46       0.082   0.35   NO
+  max. S    31       0.100   0.75   NO
+  mean S     1-45    0.032   0.30   NO
+  max. D     1-45    0.057   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A060IP86_A0A060  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.182   0.51   NO
+  max. Y    43       0.140   0.35   NO
+  max. S    32       0.390   0.75   NO
+  mean S     1-42    0.139   0.30   NO
+  max. D     1-42    0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4NBT2_F4NBT2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.182   0.51   NO
+  max. Y    43       0.148   0.35   NO
+  max. S    35       0.395   0.75   NO
+  mean S     1-42    0.132   0.30   NO
+  max. D     1-42    0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5GWT5_F5GWT5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.243   0.51   NO
+  max. Y    39       0.139   0.35   NO
+  max. S    36       0.334   0.75   NO
+  mean S     1-38    0.054   0.30   NO
+  max. D     1-38    0.096   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G9FTK0_G9FTK0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    19       0.341   0.51   NO
+  max. Y    43       0.132   0.35   NO
+  max. S    29       0.384   0.75   NO
+  mean S     1-42    0.118   0.30   NO
+  max. D     1-42    0.125   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A0MTG2_A0A0A0  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    15       0.096   0.51   NO
+  max. Y    15       0.091   0.35   NO
+  max. S    14       0.189   0.75   NO
+  mean S     1-14    0.100   0.30   NO
+  max. D     1-14    0.095   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JUV9_C9JUV9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.148   0.51   NO
+  max. Y    31       0.183   0.35   NO
+  max. S    23       0.521   0.75   NO
+  mean S     1-30    0.253   0.30   NO
+  max. D     1-30    0.218   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C6L831_C6L831_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.133   0.51   NO
+  max. Y    18       0.144   0.35   NO
+  max. S     8       0.671   0.75   NO
+  mean S     1-17    0.305   0.30   YES
+  max. D     1-17    0.225   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8K2L4_A8K2L4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.146   0.51   NO
+  max. Y    11       0.074   0.35   NO
+  max. S     9       0.283   0.75   NO
+  mean S     1-10    0.166   0.30   NO
+  max. D     1-10    0.120   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5ZGK7_Q5ZGK7_HUM  length = 93
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.159   0.51   NO
+  max. Y    60       0.062   0.35   NO
+  max. S     7       0.259   0.75   NO
+  mean S     1-59    0.051   0.30   NO
+  max. D     1-59    0.057   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E2D5L4_E2D5L4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.129   0.35   NO
+  max. S     8       0.591   0.75   NO
+  mean S     1-17    0.277   0.30   NO
+  max. D     1-17    0.203   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0F7IQ07_A0A0F7  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.163   0.51   NO
+  max. Y    16       0.093   0.35   NO
+  max. S     7       0.425   0.75   NO
+  mean S     1-15    0.165   0.30   NO
+  max. D     1-15    0.129   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I4EPE3_I4EPE3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.119   0.51   NO
+  max. Y     9       0.077   0.35   NO
+  max. S     1       0.272   0.75   NO
+  mean S     1-8     0.093   0.30   NO
+  max. D     1-8     0.085   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YDA0_H0YDA0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    73       0.125   0.51   NO
+  max. Y    11       0.047   0.35   NO
+  max. S    52       0.136   0.75   NO
+  mean S     1-10    0.053   0.30   NO
+  max. D     1-10    0.050   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L2Q1_I3L2Q1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    48       0.223   0.51   NO
+  max. Y    23       0.319   0.35   NO
+  max. S     7       0.849   0.75   YES
+  mean S     1-22    0.565   0.30   YES
+  max. D     1-22    0.442   0.36   YES
+# Most likely cleavage site between pos. 22 and 23: RRA-VR
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q53R32_Q53R32_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.430   0.51   NO
+  max. Y    55       0.054   0.35   NO
+  max. S    47       0.063   0.75   NO
+  mean S     1-54    0.015   0.30   NO
+  max. D     1-54    0.034   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y9J6_H0Y9J6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.204   0.51   NO
+  max. Y     7       0.038   0.35   NO
+  max. S     2       0.079   0.75   NO
+  mean S     1-6     0.046   0.30   NO
+  max. D     1-6     0.042   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4MHQ7_F4MHQ7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    46       0.202   0.51   NO
+  max. Y    30       0.086   0.35   NO
+  max. S    14       0.223   0.75   NO
+  mean S     1-29    0.057   0.30   NO
+  max. D     1-29    0.072   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A5PKT5_A5PKT5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.150   0.51   NO
+  max. Y    35       0.122   0.35   NO
+  max. S     2       0.465   0.75   NO
+  mean S     1-34    0.159   0.30   NO
+  max. D     1-34    0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8K0T9_A8K0T9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    54       0.217   0.51   NO
+  max. Y    18       0.151   0.35   NO
+  max. S     6       0.451   0.75   NO
+  mean S     1-17    0.238   0.30   NO
+  max. D     1-17    0.194   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H4Z0_F5H4Z0_HUM  length = 56
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.270   0.51   NO
+  max. Y    26       0.228   0.35   NO
+  max. S    24       0.523   0.75   NO
+  mean S     1-25    0.210   0.30   NO
+  max. D     1-25    0.219   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YNI4_H0YNI4_HUM  length = 74
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    51       0.243   0.51   NO
+  max. Y    15       0.129   0.35   NO
+  max. S     8       0.411   0.75   NO
+  mean S     1-14    0.175   0.30   NO
+  max. D     1-14    0.152   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E5RGC2_E5RGC2_HUM  length = 66
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.205   0.51   NO
+  max. Y    21       0.158   0.35   NO
+  max. S    10       0.480   0.75   NO
+  mean S     1-20    0.145   0.30   NO
+  max. D     1-20    0.151   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8K1R9_A8K1R9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    23       0.253   0.51   NO
+  max. Y    19       0.113   0.35   NO
+  max. S     1       0.338   0.75   NO
+  mean S     1-18    0.074   0.30   NO
+  max. D     1-18    0.093   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8K799_A8K799_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    64       0.105   0.51   NO
+  max. Y     3       0.071   0.35   NO
+  max. S     1       0.193   0.75   NO
+  mean S     1-2     0.124   0.30   NO
+  max. D     1-2     0.098   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8K1T0_A8K1T0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.348   0.51   NO
+  max. Y    22       0.225   0.35   NO
+  max. S    14       0.414   0.75   NO
+  mean S     1-21    0.162   0.30   NO
+  max. D     1-21    0.193   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L3D7_I3L3D7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    73       0.207   0.51   NO
+  max. Y    30       0.070   0.35   NO
+  max. S    93       0.534   0.75   NO
+  mean S     1-29    0.087   0.30   NO
+  max. D     1-29    0.078   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A8MQ02_A8MQ02_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.448   0.51   NO
+  max. Y    27       0.327   0.35   NO
+  max. S    11       0.756   0.75   YES
+  mean S     1-26    0.342   0.30   YES
+  max. D     1-26    0.335   0.36   NO
+# Most likely cleavage site between pos. 26 and 27: ATT-QD
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YLR4_H0YLR4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    76       0.166   0.51   NO
+  max. Y     4       0.038   0.35   NO
+  max. S    38       0.072   0.75   NO
+  mean S     1-3     0.044   0.30   NO
+  max. D     1-3     0.041   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L392_I3L392_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    49       0.480   0.51   NO
+  max. Y    49       0.326   0.35   NO
+  max. S    38       0.544   0.75   NO
+  mean S     1-48    0.111   0.30   NO
+  max. D     1-48    0.218   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F6IQJ7_F6IQJ7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.189   0.51   NO
+  max. Y    43       0.092   0.35   NO
+  max. S     3       0.315   0.75   NO
+  mean S     1-42    0.106   0.30   NO
+  max. D     1-42    0.099   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L2Y5_I3L2Y5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.303   0.51   NO
+  max. Y    43       0.120   0.35   NO
+  max. S     1       0.331   0.75   NO
+  mean S     1-42    0.085   0.30   NO
+  max. D     1-42    0.103   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F6KRP8_F6KRP8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.224   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.613   0.75   NO
+  mean S     1-17    0.279   0.30   NO
+  max. D     1-17    0.207   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q95IF3_Q95IF3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.124   0.51   NO
+  max. Y    18       0.148   0.35   NO
+  max. S     8       0.695   0.75   NO
+  mean S     1-17    0.330   0.30   YES
+  max. D     1-17    0.239   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I7H3R2_I7H3R2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.152   0.35   NO
+  max. S     8       0.738   0.75   NO
+  mean S     1-17    0.382   0.30   YES
+  max. D     1-17    0.267   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5JR49_Q5JR49_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    59       0.270   0.51   NO
+  max. Y    59       0.156   0.35   NO
+  max. S    41       0.237   0.75   NO
+  mean S     1-58    0.057   0.30   NO
+  max. D     1-58    0.106   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L202_I3L202_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.396   0.51   NO
+  max. Y    56       0.100   0.35   NO
+  max. S    51       0.245   0.75   NO
+  mean S     1-55    0.038   0.30   NO
+  max. D     1-55    0.069   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F6KRS2_F6KRS2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.147   0.35   NO
+  max. S     8       0.669   0.75   NO
+  mean S     1-17    0.326   0.30   YES
+  max. D     1-17    0.237   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_O19667_O19667_HUM  length = 80
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    41       0.173   0.51   NO
+  max. Y    19       0.069   0.35   NO
+  max. S     3       0.411   0.75   NO
+  mean S     1-18    0.091   0.30   NO
+  max. D     1-18    0.080   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F6IR30_F6IR30_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.247   0.51   NO
+  max. Y    43       0.157   0.35   NO
+  max. S    31       0.456   0.75   NO
+  mean S     1-42    0.140   0.30   NO
+  max. D     1-42    0.149   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3L182_I3L182_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.270   0.51   NO
+  max. Y    22       0.127   0.35   NO
+  max. S     2       0.297   0.75   NO
+  mean S     1-21    0.109   0.30   NO
+  max. D     1-21    0.118   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I3NI33_I3NI33_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.282   0.51   NO
+  max. Y    56       0.068   0.35   NO
+  max. S     2       0.167   0.75   NO
+  mean S     1-55    0.034   0.30   NO
+  max. D     1-55    0.051   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E3Q1I7_E3Q1I7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.137   0.35   NO
+  max. S     8       0.717   0.75   NO
+  mean S     1-17    0.349   0.30   YES
+  max. D     1-17    0.243   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q95HN0_Q95HN0_HUM  length = 71
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.238   0.51   NO
+  max. Y    23       0.057   0.35   NO
+  max. S     6       0.186   0.75   NO
+  mean S     1-22    0.060   0.30   NO
+  max. D     1-22    0.058   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H3BSF3_H3BSF3_HUM  length = 51
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.186   0.51   NO
+  max. Y    18       0.039   0.35   NO
+  max. S     2       0.049   0.75   NO
+  mean S     1-17    0.028   0.30   NO
+  max. D     1-17    0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H6A2D6_H6A2D6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.281   0.51   NO
+  max. Y    18       0.148   0.35   NO
+  max. S     8       0.669   0.75   NO
+  mean S     1-17    0.328   0.30   YES
+  max. D     1-17    0.238   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E5RJ43_E5RJ43_HUM  length = 40
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    38       0.173   0.51   NO
+  max. Y     4       0.090   0.35   NO
+  max. S     1       0.406   0.75   NO
+  mean S     1-3     0.318   0.30   YES
+  max. D     1-3     0.204   0.36   NO
+# Most likely cleavage site between pos. 3 and 4: MTK-KT
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E2D5U3_E2D5U3_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.145   0.51   NO
+  max. Y    16       0.101   0.35   NO
+  max. S     7       0.523   0.75   NO
+  mean S     1-15    0.196   0.30   NO
+  max. D     1-15    0.148   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DG65_A0A0C4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.189   0.51   NO
+  max. Y    42       0.179   0.35   NO
+  max. S    33       0.566   0.75   NO
+  mean S     1-41    0.265   0.30   NO
+  max. D     1-41    0.222   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D5CC34_A0A0D5  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.130   0.35   NO
+  max. S     8       0.583   0.75   NO
+  mean S     1-17    0.266   0.30   NO
+  max. D     1-17    0.198   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H3BPF4_H3BPF4_HUM  length = 49
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.610   0.51   YES
+  max. Y    24       0.284   0.35   NO
+  max. S    16       0.366   0.75   NO
+  mean S     1-23    0.140   0.30   NO
+  max. D     1-23    0.212   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DH20_A0A0C4  length = 75
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.146   0.51   NO
+  max. Y    46       0.087   0.35   NO
+  max. S    26       0.243   0.75   NO
+  mean S     1-45    0.083   0.30   NO
+  max. D     1-45    0.085   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D9SF36_A0A0D9  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    80       0.257   0.51   NO
+  max. Y     7       0.088   0.35   NO
+  max. S     1       0.377   0.75   NO
+  mean S     1-6     0.176   0.30   NO
+  max. D     1-6     0.132   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DDE0_A0A0E3  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.136   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.343   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E5RJ87_E5RJ87_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    52       0.282   0.51   NO
+  max. Y    52       0.316   0.35   NO
+  max. S    36       0.724   0.75   NO
+  mean S     1-51    0.234   0.30   NO
+  max. D     1-51    0.275   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DCB3_A0A0E3  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.183   0.51   NO
+  max. Y     3       0.083   0.35   NO
+  max. S     1       0.359   0.75   NO
+  mean S     1-2     0.246   0.30   NO
+  max. D     1-2     0.165   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DCP6_A0A0E3  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.142   0.51   NO
+  max. Y    13       0.118   0.35   NO
+  max. S     1       0.389   0.75   NO
+  mean S     1-12    0.227   0.30   NO
+  max. D     1-12    0.173   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H6A2E4_H6A2E4_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.133   0.51   NO
+  max. Y    13       0.088   0.35   NO
+  max. S     1       0.386   0.75   NO
+  mean S     1-12    0.181   0.30   NO
+  max. D     1-12    0.134   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0H3W5E5_A0A0H3  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.396   0.51   NO
+  max. Y    43       0.198   0.35   NO
+  max. S    34       0.346   0.75   NO
+  mean S     1-42    0.062   0.30   NO
+  max. D     1-42    0.130   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D9SFW1_A0A0D9  length = 35
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.100   0.51   NO
+  max. Y    33       0.075   0.35   NO
+  max. S    28       0.476   0.75   NO
+  mean S     1-32    0.089   0.30   NO
+  max. D     1-32    0.082   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_O97997_O97997_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.138   0.35   NO
+  max. S     8       0.615   0.75   NO
+  mean S     1-17    0.313   0.30   YES
+  max. D     1-17    0.226   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q06AC8_Q06AC8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.119   0.35   NO
+  max. S     1       0.548   0.75   NO
+  mean S     1-17    0.212   0.30   NO
+  max. D     1-17    0.165   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q05DE9_Q05DE9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.313   0.51   NO
+  max. Y    52       0.220   0.35   NO
+  max. S    21       0.658   0.75   NO
+  mean S     1-51    0.409   0.30   YES
+  max. D     1-51    0.315   0.36   NO
+# Most likely cleavage site between pos. 51 and 52: AGP-SN
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DDK3_A0A0E3  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.231   0.51   NO
+  max. Y    18       0.124   0.35   NO
+  max. S     8       0.564   0.75   NO
+  mean S     1-17    0.240   0.30   NO
+  max. D     1-17    0.182   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DC11_A0A0E3  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.356   0.51   NO
+  max. Y    18       0.132   0.35   NO
+  max. S     8       0.608   0.75   NO
+  mean S     1-17    0.295   0.30   NO
+  max. D     1-17    0.213   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D9SG58_A0A0D9  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.174   0.51   NO
+  max. Y    63       0.137   0.35   NO
+  max. S    56       0.278   0.75   NO
+  mean S     1-62    0.054   0.30   NO
+  max. D     1-62    0.096   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0G2R128_A0A0G2  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.142   0.51   NO
+  max. Y    13       0.066   0.35   NO
+  max. S     1       0.167   0.75   NO
+  mean S     1-12    0.058   0.30   NO
+  max. D     1-12    0.062   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0G2JLX3_A0A0G2  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.299   0.51   NO
+  max. Y    37       0.087   0.35   NO
+  max. S     4       0.148   0.75   NO
+  mean S     1-36    0.038   0.30   NO
+  max. D     1-36    0.062   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A4UUM5_A4UUM5_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.153   0.51   NO
+  max. Y    16       0.125   0.35   NO
+  max. S     7       0.659   0.75   NO
+  mean S     1-15    0.302   0.30   YES
+  max. D     1-15    0.214   0.36   NO
+# Most likely cleavage site between pos. 15 and 16: FNG-TE
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DW04_B4DW04_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    46       0.169   0.51   NO
+  max. Y    24       0.159   0.35   NO
+  max. S     4       0.842   0.75   YES
+  mean S     1-23    0.443   0.30   YES
+  max. D     1-23    0.301   0.36   NO
+# Most likely cleavage site between pos. 23 and 24: RPT-SM
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DMK9_B4DMK9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.356   0.51   NO
+  max. Y    37       0.157   0.35   NO
+  max. S    12       0.405   0.75   NO
+  mean S     1-36    0.145   0.30   NO
+  max. D     1-36    0.151   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DUB4_B4DUB4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.402   0.51   NO
+  max. Y    35       0.104   0.35   NO
+  max. S    34       0.139   0.75   NO
+  mean S     1-34    0.032   0.30   NO
+  max. D     1-34    0.068   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DDG1_A0A0E3  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    51       0.188   0.51   NO
+  max. Y    13       0.064   0.35   NO
+  max. S     1       0.154   0.75   NO
+  mean S     1-12    0.054   0.30   NO
+  max. D     1-12    0.059   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B3KR20_B3KR20_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.228   0.51   NO
+  max. Y    37       0.065   0.35   NO
+  max. S    32       0.239   0.75   NO
+  mean S     1-36    0.062   0.30   NO
+  max. D     1-36    0.063   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B3VRM0_B3VRM0_HUM  length = 52
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    48       0.161   0.51   NO
+  max. Y    48       0.090   0.35   NO
+  max. S    45       0.259   0.75   NO
+  mean S     1-47    0.050   0.30   NO
+  max. D     1-47    0.070   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E5RIP1_E5RIP1_HUM  length = 46
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    17       0.113   0.51   NO
+  max. Y    17       0.086   0.35   NO
+  max. S     1       0.151   0.75   NO
+  mean S     1-16    0.059   0.30   NO
+  max. D     1-16    0.073   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DNN3_B4DNN3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.509   0.51   NO
+  max. Y    37       0.175   0.35   NO
+  max. S    14       0.253   0.75   NO
+  mean S     1-36    0.107   0.30   NO
+  max. D     1-36    0.141   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5FWA1_D5FWA1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.149   0.35   NO
+  max. S     8       0.670   0.75   NO
+  mean S     1-17    0.327   0.30   YES
+  max. D     1-17    0.238   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6ML95_D6ML95_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.285   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.708   0.75   NO
+  mean S     1-17    0.338   0.30   YES
+  max. D     1-17    0.236   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5SZ82_Q5SZ82_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.604   0.51   YES
+  max. Y    64       0.043   0.35   NO
+  max. S    49       0.080   0.75   NO
+  mean S     1-63    0.020   0.30   NO
+  max. D     1-63    0.031   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5H3H6_D5H3H6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.173   0.51   NO
+  max. Y    43       0.180   0.35   NO
+  max. S    33       0.456   0.75   NO
+  mean S     1-42    0.118   0.30   NO
+  max. D     1-42    0.149   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DW71_B4DW71_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    72       0.098   0.51   NO
+  max. Y    43       0.038   0.35   NO
+  max. S    28       0.108   0.75   NO
+  mean S     1-42    0.023   0.30   NO
+  max. D     1-42    0.031   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5L9C5_D5L9C5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.150   0.35   NO
+  max. S     8       0.675   0.75   NO
+  mean S     1-17    0.333   0.30   YES
+  max. D     1-17    0.242   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JMN2_C9JMN2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.509   0.51   NO
+  max. Y    37       0.274   0.35   NO
+  max. S     8       0.437   0.75   NO
+  mean S     1-36    0.208   0.30   NO
+  max. D     1-36    0.241   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JUA9_C9JUA9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.105   0.51   NO
+  max. Y    12       0.046   0.35   NO
+  max. S     1       0.104   0.75   NO
+  mean S     1-11    0.051   0.30   NO
+  max. D     1-11    0.048   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JTM4_C9JTM4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.394   0.51   NO
+  max. Y    28       0.168   0.35   NO
+  max. S    19       0.416   0.75   NO
+  mean S     1-27    0.129   0.30   NO
+  max. D     1-27    0.149   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5FZV5_D5FZV5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.149   0.35   NO
+  max. S     8       0.691   0.75   NO
+  mean S     1-17    0.365   0.30   YES
+  max. D     1-17    0.257   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GSG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9IZ76_C9IZ76_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.489   0.51   NO
+  max. Y    37       0.130   0.35   NO
+  max. S     3       0.160   0.75   NO
+  mean S     1-36    0.040   0.30   NO
+  max. D     1-36    0.085   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9IZP0_C9IZP0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.409   0.51   NO
+  max. Y    31       0.173   0.35   NO
+  max. S     4       0.396   0.75   NO
+  mean S     1-30    0.138   0.30   NO
+  max. D     1-30    0.156   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JWL7_C9JWL7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.356   0.51   NO
+  max. Y    45       0.202   0.35   NO
+  max. S    44       0.739   0.75   NO
+  mean S     1-44    0.239   0.30   NO
+  max. D     1-44    0.220   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JKM9_C9JKM9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    47       0.234   0.51   NO
+  max. Y    13       0.040   0.35   NO
+  max. S     1       0.052   0.75   NO
+  mean S     1-12    0.027   0.30   NO
+  max. D     1-12    0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5L9E3_D5L9E3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.121   0.35   NO
+  max. S     1       0.561   0.75   NO
+  mean S     1-17    0.220   0.30   NO
+  max. D     1-17    0.170   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JFF4_C9JFF4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.200   0.51   NO
+  max. Y    22       0.218   0.35   NO
+  max. S     6       0.436   0.75   NO
+  mean S     1-21    0.243   0.30   NO
+  max. D     1-21    0.230   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9K0F9_C9K0F9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.323   0.51   NO
+  max. Y    34       0.320   0.35   NO
+  max. S    24       0.640   0.75   NO
+  mean S     1-33    0.386   0.30   YES
+  max. D     1-33    0.353   0.36   NO
+# Most likely cleavage site between pos. 33 and 34: TCA-VV
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6MLI9_D6MLI9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.152   0.35   NO
+  max. S     8       0.740   0.75   NO
+  mean S     1-17    0.386   0.30   YES
+  max. D     1-17    0.269   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_L0BXR8_L0BXR8_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.183   0.51   NO
+  max. Y     3       0.083   0.35   NO
+  max. S     1       0.357   0.75   NO
+  mean S     1-2     0.246   0.30   NO
+  max. D     1-2     0.164   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JVB3_C9JVB3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    38       0.094   0.51   NO
+  max. Y    53       0.118   0.35   NO
+  max. S     6       0.839   0.75   YES
+  mean S     1-52    0.442   0.30   YES
+  max. D     1-52    0.280   0.36   NO
+# Most likely cleavage site between pos. 52 and 53: SWS-RD
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B8Y6B0_B8Y6B0_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.177   0.51   NO
+  max. Y    10       0.090   0.35   NO
+  max. S     7       0.423   0.75   NO
+  mean S     1-9     0.204   0.30   NO
+  max. D     1-9     0.147   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9J3T3_C9J3T3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.195   0.51   NO
+  max. Y    25       0.278   0.35   NO
+  max. S    14       0.770   0.75   YES
+  mean S     1-24    0.457   0.30   YES
+  max. D     1-24    0.367   0.36   YES
+# Most likely cleavage site between pos. 24 and 25: SSA-SL
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DD96_A0A0E3  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.145   0.51   NO
+  max. Y    13       0.095   0.35   NO
+  max. S     1       0.453   0.75   NO
+  mean S     1-12    0.179   0.30   NO
+  max. D     1-12    0.137   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9J856_C9J856_HUM  length = 60
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    49       0.259   0.51   NO
+  max. Y    24       0.083   0.35   NO
+  max. S    54       0.378   0.75   NO
+  mean S     1-23    0.059   0.30   NO
+  max. D     1-23    0.071   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PEI6_E9PEI6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.700   0.51   YES
+  max. Y    30       0.379   0.35   YES
+  max. S    25       0.629   0.75   NO
+  mean S     1-29    0.189   0.30   NO
+  max. D     1-29    0.284   0.36   NO
+# Most likely cleavage site between pos. 29 and 30: AGA-TT
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q59H08_Q59H08_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    84       0.253   0.51   NO
+  max. Y    84       0.120   0.35   NO
+  max. S    72       0.168   0.75   NO
+  mean S     1-83    0.035   0.30   NO
+  max. D     1-83    0.078   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1UI28_G1UI28_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    53       0.198   0.51   NO
+  max. Y     5       0.081   0.35   NO
+  max. S     1       0.208   0.75   NO
+  mean S     1-4     0.129   0.30   NO
+  max. D     1-4     0.105   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9JH44_C9JH44_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    23       0.224   0.51   NO
+  max. Y    20       0.096   0.35   NO
+  max. S     1       0.239   0.75   NO
+  mean S     1-19    0.060   0.30   NO
+  max. D     1-19    0.078   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EQC7_G1EQC7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.121   0.35   NO
+  max. S     1       0.564   0.75   NO
+  mean S     1-17    0.222   0.30   NO
+  max. D     1-17    0.172   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PI53_E9PI53_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.250   0.51   NO
+  max. Y     3       0.073   0.35   NO
+  max. S     1       0.258   0.75   NO
+  mean S     1-2     0.178   0.30   NO
+  max. D     1-2     0.126   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PKZ2_E9PKZ2_HUM  length = 36
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.221   0.51   NO
+  max. Y    34       0.081   0.35   NO
+  max. S    30       0.501   0.75   NO
+  mean S     1-33    0.124   0.30   NO
+  max. D     1-33    0.103   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PQY1_E9PQY1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    60       0.249   0.51   NO
+  max. Y    30       0.255   0.35   NO
+  max. S    16       0.759   0.75   YES
+  mean S     1-29    0.393   0.30   YES
+  max. D     1-29    0.324   0.36   NO
+# Most likely cleavage site between pos. 29 and 30: VQI-GG
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G0ZMI4_G0ZMI4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.149   0.35   NO
+  max. S     8       0.671   0.75   NO
+  mean S     1-17    0.328   0.30   YES
+  max. D     1-17    0.238   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DGR5_A0A0C4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    53       0.188   0.51   NO
+  max. Y     9       0.063   0.35   NO
+  max. S     6       0.206   0.75   NO
+  mean S     1-8     0.118   0.30   NO
+  max. D     1-8     0.090   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C518_A0A0A7  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.127   0.51   NO
+  max. Y    18       0.146   0.35   NO
+  max. S     8       0.695   0.75   NO
+  mean S     1-17    0.333   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PB41_E9PB41_HUM  length = 96
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.666   0.51   YES
+  max. Y    34       0.207   0.35   NO
+  max. S    18       0.433   0.75   NO
+  mean S     1-33    0.083   0.30   NO
+  max. D     1-33    0.145   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C962_A0A0A7  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.299   0.51   NO
+  max. Y    18       0.128   0.35   NO
+  max. S     8       0.568   0.75   NO
+  mean S     1-17    0.253   0.30   NO
+  max. D     1-17    0.190   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A024R1H4_A0A024  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.262   0.51   NO
+  max. Y    30       0.323   0.35   NO
+  max. S    15       0.851   0.75   YES
+  mean S     1-29    0.512   0.30   YES
+  max. D     1-29    0.417   0.36   YES
+# Most likely cleavage site between pos. 29 and 30: AGE-SG
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A2VC07_A2VC07_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.127   0.35   NO
+  max. S     8       0.574   0.75   NO
+  mean S     1-17    0.265   0.30   NO
+  max. D     1-17    0.196   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q7Z677_Q7Z677_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.181   0.51   NO
+  max. Y    17       0.079   0.35   NO
+  max. S     1       0.256   0.75   NO
+  mean S     1-16    0.112   0.30   NO
+  max. D     1-16    0.096   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EPA6_G1EPA6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.157   0.35   NO
+  max. S     8       0.724   0.75   NO
+  mean S     1-17    0.397   0.30   YES
+  max. D     1-17    0.277   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q8IYN5_Q8IYN5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.576   0.51   YES
+  max. Y    32       0.262   0.35   NO
+  max. S    25       0.520   0.75   NO
+  mean S     1-31    0.200   0.30   NO
+  max. D     1-31    0.231   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PBB1_E9PBB1_HUM  length = 97
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    55       0.218   0.51   NO
+  max. Y    38       0.144   0.35   NO
+  max. S    32       0.358   0.75   NO
+  mean S     1-37    0.111   0.30   NO
+  max. D     1-37    0.127   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EQG3_G1EQG3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.120   0.35   NO
+  max. S     1       0.555   0.75   NO
+  mean S     1-17    0.216   0.30   NO
+  max. D     1-17    0.168   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EPT3_G1EPT3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.146   0.35   NO
+  max. S     8       0.660   0.75   NO
+  mean S     1-17    0.319   0.30   YES
+  max. D     1-17    0.232   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q7Z7I1_Q7Z7I1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    18       0.324   0.51   NO
+  max. Y    18       0.053   0.35   NO
+  max. S     1       0.047   0.75   NO
+  mean S     1-17    0.013   0.30   NO
+  max. D     1-17    0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1ENW6_G1ENW6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.130   0.35   NO
+  max. S     8       0.581   0.75   NO
+  mean S     1-17    0.264   0.30   NO
+  max. D     1-17    0.197   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EPF5_G1EPF5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.399   0.51   NO
+  max. Y    18       0.134   0.35   NO
+  max. S     8       0.614   0.75   NO
+  mean S     1-17    0.303   0.30   YES
+  max. D     1-17    0.219   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q7Z2U6_Q7Z2U6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    15       0.108   0.51   NO
+  max. Y    15       0.055   0.35   NO
+  max. S    49       0.073   0.75   NO
+  mean S     1-14    0.028   0.30   NO
+  max. D     1-14    0.041   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EPQ7_G1EPQ7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.224   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.613   0.75   NO
+  mean S     1-17    0.279   0.30   NO
+  max. D     1-17    0.207   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PJF3_E9PJF3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.232   0.51   NO
+  max. Y    23       0.121   0.35   NO
+  max. S     1       0.445   0.75   NO
+  mean S     1-22    0.129   0.30   NO
+  max. D     1-22    0.125   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PJQ5_E9PJQ5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    85       0.160   0.51   NO
+  max. Y    41       0.247   0.35   NO
+  max. S    31       0.685   0.75   NO
+  mean S     1-40    0.257   0.30   NO
+  max. D     1-40    0.252   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PBE1_E9PBE1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.103   0.51   NO
+  max. Y    12       0.026   0.35   NO
+  max. S     1       0.034   0.75   NO
+  mean S     1-11    0.015   0.30   NO
+  max. D     1-11    0.021   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G1EMX8_G1EMX8_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.257   0.51   NO
+  max. Y    13       0.085   0.35   NO
+  max. S     1       0.363   0.75   NO
+  mean S     1-12    0.163   0.30   NO
+  max. D     1-12    0.124   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PS12_E9PS12_HUM  length = 77
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    57       0.119   0.51   NO
+  max. Y    57       0.109   0.35   NO
+  max. S    47       0.345   0.75   NO
+  mean S     1-56    0.066   0.30   NO
+  max. D     1-56    0.087   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B8ZZ95_B8ZZ95_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    19       0.311   0.51   NO
+  max. Y    19       0.431   0.35   YES
+  max. S     5       0.864   0.75   YES
+  mean S     1-18    0.616   0.30   YES
+  max. D     1-18    0.523   0.36   YES
+# Most likely cleavage site between pos. 18 and 19: ALR-AP
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PC90_E9PC90_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.443   0.51   NO
+  max. Y    33       0.404   0.35   YES
+  max. S    29       0.861   0.75   YES
+  mean S     1-32    0.496   0.30   YES
+  max. D     1-32    0.450   0.36   YES
+# Most likely cleavage site between pos. 32 and 33: APA-AT
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C9J7Z7_C9J7Z7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.184   0.51   NO
+  max. Y    38       0.095   0.35   NO
+  max. S    32       0.402   0.75   NO
+  mean S     1-37    0.080   0.30   NO
+  max. D     1-37    0.088   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PS85_E9PS85_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.308   0.51   NO
+  max. Y     6       0.036   0.35   NO
+  max. S     1       0.064   0.75   NO
+  mean S     1-5     0.043   0.30   NO
+  max. D     1-5     0.039   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PK85_E9PK85_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.093   0.51   NO
+  max. Y     2       0.068   0.35   NO
+  max. S     1       0.212   0.75   NO
+  mean S     1-1     0.212   0.30   NO
+  max. D     1-1     0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PPR8_E9PPR8_HUM  length = 84
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    55       0.098   0.51   NO
+  max. Y     8       0.107   0.35   NO
+  max. S     1       0.542   0.75   NO
+  mean S     1-7     0.291   0.30   NO
+  max. D     1-7     0.199   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PQ85_E9PQ85_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.223   0.51   NO
+  max. Y    31       0.041   0.35   NO
+  max. S     2       0.068   0.75   NO
+  mean S     1-30    0.023   0.30   NO
+  max. D     1-30    0.032   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PM31_E9PM31_HUM  length = 92
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.281   0.51   NO
+  max. Y    33       0.236   0.35   NO
+  max. S    27       0.486   0.75   NO
+  mean S     1-32    0.153   0.30   NO
+  max. D     1-32    0.195   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_W5REF3_W5REF3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.153   0.35   NO
+  max. S     8       0.764   0.75   YES
+  mean S     1-17    0.399   0.30   YES
+  max. D     1-17    0.276   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PQ91_E9PQ91_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.252   0.51   NO
+  max. Y    11       0.035   0.35   NO
+  max. S     1       0.048   0.75   NO
+  mean S     1-10    0.022   0.30   NO
+  max. D     1-10    0.029   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G0Z6Y7_G0Z6Y7_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.150   0.51   NO
+  max. Y    16       0.100   0.35   NO
+  max. S     1       0.438   0.75   NO
+  mean S     1-15    0.169   0.30   NO
+  max. D     1-15    0.134   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PHY3_E9PHY3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.452   0.51   NO
+  max. Y    33       0.237   0.35   NO
+  max. S    24       0.312   0.75   NO
+  mean S     1-32    0.118   0.30   NO
+  max. D     1-32    0.177   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PQ05_E9PQ05_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.514   0.51   YES
+  max. Y    41       0.142   0.35   NO
+  max. S     4       0.509   0.75   NO
+  mean S     1-40    0.115   0.30   NO
+  max. D     1-40    0.128   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PAP0_E9PAP0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    36       0.247   0.51   NO
+  max. Y    44       0.341   0.35   NO
+  max. S    38       0.865   0.75   YES
+  mean S     1-43    0.344   0.30   YES
+  max. D     1-43    0.342   0.36   NO
+# Most likely cleavage site between pos. 43 and 44: PSG-TM
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G3V479_G3V479_HUM  length = 83
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    48       0.397   0.51   NO
+  max. Y    48       0.129   0.35   NO
+  max. S     5       0.425   0.75   NO
+  mean S     1-47    0.072   0.30   NO
+  max. D     1-47    0.100   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C4Q6_A0A0A7  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.177   0.51   NO
+  max. Y    10       0.092   0.35   NO
+  max. S     7       0.451   0.75   NO
+  mean S     1-9     0.219   0.30   NO
+  max. D     1-9     0.156   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PNT9_E9PNT9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.391   0.51   NO
+  max. Y    44       0.140   0.35   NO
+  max. S    11       0.328   0.75   NO
+  mean S     1-43    0.119   0.30   NO
+  max. D     1-43    0.129   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9LY28_E9LY28_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.139   0.35   NO
+  max. S     8       0.604   0.75   NO
+  mean S     1-17    0.323   0.30   YES
+  max. D     1-17    0.231   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C6B6_A0A0A7  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.103   0.51   NO
+  max. Y    13       0.115   0.35   NO
+  max. S     1       0.372   0.75   NO
+  mean S     1-12    0.212   0.30   NO
+  max. D     1-12    0.164   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G3V256_G3V256_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.219   0.51   NO
+  max. Y    27       0.088   0.35   NO
+  max. S     4       0.495   0.75   NO
+  mean S     1-26    0.096   0.30   NO
+  max. D     1-26    0.092   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C9P1_A0A0A7  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.142   0.51   NO
+  max. Y    13       0.130   0.35   NO
+  max. S     8       0.461   0.75   NO
+  mean S     1-12    0.284   0.30   NO
+  max. D     1-12    0.207   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X6RDS5_X6RDS5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.274   0.51   NO
+  max. Y    21       0.114   0.35   NO
+  max. S    55       0.121   0.75   NO
+  mean S     1-20    0.056   0.30   NO
+  max. D     1-20    0.085   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X6RF29_X6RF29_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.236   0.51   NO
+  max. Y    15       0.163   0.35   NO
+  max. S     3       0.469   0.75   NO
+  mean S     1-14    0.200   0.30   NO
+  max. D     1-14    0.182   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X6RCC3_X6RCC3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.161   0.51   NO
+  max. Y    37       0.096   0.35   NO
+  max. S     9       0.351   0.75   NO
+  mean S     1-36    0.113   0.30   NO
+  max. D     1-36    0.105   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q8N282_Q8N282_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.538   0.51   YES
+  max. Y    32       0.361   0.35   YES
+  max. S    24       0.732   0.75   NO
+  mean S     1-31    0.449   0.30   YES
+  max. D     1-31    0.405   0.36   YES
+# Most likely cleavage site between pos. 31 and 32: TSA-PP
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PIR9_E9PIR9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    47       0.231   0.51   NO
+  max. Y    47       0.342   0.35   NO
+  max. S    29       0.795   0.75   YES
+  mean S     1-46    0.297   0.30   NO
+  max. D     1-46    0.319   0.36   NO
+# Most likely cleavage site between pos. 46 and 47: KEA-ST
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C652_A0A0A7  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.133   0.35   NO
+  max. S     8       0.600   0.75   NO
+  mean S     1-17    0.294   0.30   NO
+  max. D     1-17    0.213   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C9B4_A0A0A7  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.119   0.35   NO
+  max. S     1       0.548   0.75   NO
+  mean S     1-17    0.212   0.30   NO
+  max. D     1-17    0.165   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7CAB7_A0A0A7  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.251   0.51   NO
+  max. Y     3       0.077   0.35   NO
+  max. S     1       0.303   0.75   NO
+  mean S     1-2     0.203   0.30   NO
+  max. D     1-2     0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q3ZB85_Q3ZB85_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.299   0.51   NO
+  max. Y    26       0.331   0.35   NO
+  max. S     6       0.793   0.75   YES
+  mean S     1-25    0.460   0.30   YES
+  max. D     1-25    0.396   0.36   YES
+# Most likely cleavage site between pos. 25 and 26: SLA-GS
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C8G1_A0A0A7  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.172   0.51   NO
+  max. Y    22       0.077   0.35   NO
+  max. S     1       0.320   0.75   NO
+  mean S     1-21    0.089   0.30   NO
+  max. D     1-21    0.083   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B1A0K3_B1A0K3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.136   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.343   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E1CJE0_E1CJE0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.164   0.35   NO
+  max. S     8       0.755   0.75   YES
+  mean S     1-17    0.412   0.30   YES
+  max. D     1-17    0.288   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G3V451_G3V451_HUM  length = 95
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    59       0.312   0.51   NO
+  max. Y    30       0.075   0.35   NO
+  max. S     4       0.459   0.75   NO
+  mean S     1-29    0.087   0.30   NO
+  max. D     1-29    0.081   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YBD1_H0YBD1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.130   0.51   NO
+  max. Y    46       0.048   0.35   NO
+  max. S     1       0.080   0.75   NO
+  mean S     1-45    0.020   0.30   NO
+  max. D     1-45    0.034   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_R4KW00_R4KW00_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.224   0.51   NO
+  max. Y    18       0.118   0.35   NO
+  max. S     1       0.510   0.75   NO
+  mean S     1-17    0.190   0.30   NO
+  max. D     1-17    0.154   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q9HBN2_Q9HBN2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    65       0.219   0.51   NO
+  max. Y    25       0.169   0.35   NO
+  max. S     6       0.577   0.75   NO
+  mean S     1-24    0.289   0.30   NO
+  max. D     1-24    0.229   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_S4R2Z2_S4R2Z2_HUM  length = 66
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.278   0.51   NO
+  max. Y    22       0.195   0.35   NO
+  max. S     1       0.402   0.75   NO
+  mean S     1-21    0.165   0.30   NO
+  max. D     1-21    0.180   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5T0Y3_Q5T0Y3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.099   0.51   NO
+  max. Y     8       0.047   0.35   NO
+  max. S     3       0.204   0.75   NO
+  mean S     1-7     0.107   0.30   NO
+  max. D     1-7     0.077   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_V5N2I3_V5N2I3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     1       0.507   0.75   NO
+  mean S     1-17    0.197   0.30   NO
+  max. D     1-17    0.166   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q8TCM5_Q8TCM5_HUM  length = 50
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.413   0.51   NO
+  max. Y    28       0.149   0.35   NO
+  max. S    23       0.507   0.75   NO
+  mean S     1-27    0.196   0.30   NO
+  max. D     1-27    0.172   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_V5NVV7_V5NVV7_HUM  length = 83
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.311   0.51   NO
+  max. Y    54       0.075   0.35   NO
+  max. S     7       0.132   0.75   NO
+  mean S     1-53    0.032   0.30   NO
+  max. D     1-53    0.053   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q8WUM7_Q8WUM7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.166   0.51   NO
+  max. Y     7       0.031   0.35   NO
+  max. S     2       0.052   0.75   NO
+  mean S     1-6     0.034   0.30   NO
+  max. D     1-6     0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C6J5_A0A0A7  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.147   0.51   NO
+  max. Y     3       0.083   0.35   NO
+  max. S     1       0.347   0.75   NO
+  mean S     1-2     0.236   0.30   NO
+  max. D     1-2     0.160   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G8G268_G8G268_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    53       0.186   0.51   NO
+  max. Y    10       0.088   0.35   NO
+  max. S     7       0.411   0.75   NO
+  mean S     1-9     0.198   0.30   NO
+  max. D     1-9     0.143   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B7ZL50_B7ZL50_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    60       0.140   0.51   NO
+  max. Y    60       0.220   0.35   NO
+  max. S    42       0.801   0.75   YES
+  mean S     1-59    0.211   0.30   NO
+  max. D     1-59    0.215   0.36   NO
+# Most likely cleavage site between pos. 59 and 60: GRA-IW
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G8GB36_G8GB36_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.163   0.51   NO
+  max. Y    16       0.089   0.35   NO
+  max. S     7       0.397   0.75   NO
+  mean S     1-15    0.152   0.30   NO
+  max. D     1-15    0.121   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_V5L6E7_V5L6E7_HUM  length = 81
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.331   0.51   NO
+  max. Y    52       0.076   0.35   NO
+  max. S     2       0.217   0.75   NO
+  mean S     1-51    0.034   0.30   NO
+  max. D     1-51    0.055   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8R8M5_F8R8M5_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.121   0.51   NO
+  max. Y    13       0.097   0.35   NO
+  max. S     7       0.493   0.75   NO
+  mean S     1-12    0.224   0.30   NO
+  max. D     1-12    0.160   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6RBY6_D6RBY6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    23       0.144   0.51   NO
+  max. Y    17       0.077   0.35   NO
+  max. S     1       0.294   0.75   NO
+  mean S     1-16    0.095   0.30   NO
+  max. D     1-16    0.086   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8R8L0_F8R8L0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.120   0.35   NO
+  max. S     1       0.555   0.75   NO
+  mean S     1-17    0.216   0.30   NO
+  max. D     1-17    0.168   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_S4R3E3_S4R3E3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    62       0.508   0.51   NO
+  max. Y    22       0.070   0.35   NO
+  max. S     1       0.097   0.75   NO
+  mean S     1-21    0.052   0.30   NO
+  max. D     1-21    0.061   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A8R968_A0A0A8  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.133   0.35   NO
+  max. S     8       0.609   0.75   NO
+  mean S     1-17    0.296   0.30   NO
+  max. D     1-17    0.214   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G3V4Y2_G3V4Y2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.736   0.51   YES
+  max. Y    26       0.145   0.35   NO
+  max. S    11       0.319   0.75   NO
+  mean S     1-25    0.052   0.30   NO
+  max. D     1-25    0.099   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0H4LWZ2_A0A0H4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.137   0.51   NO
+  max. Y    21       0.161   0.35   NO
+  max. S     6       0.643   0.75   NO
+  mean S     1-20    0.231   0.30   NO
+  max. D     1-20    0.196   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C5IZK6_C5IZK6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.153   0.35   NO
+  max. S     8       0.703   0.75   NO
+  mean S     1-17    0.369   0.30   YES
+  max. D     1-17    0.261   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E9PJZ2_E9PJZ2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    53       0.241   0.51   NO
+  max. Y    53       0.055   0.35   NO
+  max. S     3       0.071   0.75   NO
+  mean S     1-52    0.016   0.30   NO
+  max. D     1-52    0.036   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q05C85_Q05C85_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.212   0.51   NO
+  max. Y    20       0.124   0.35   NO
+  max. S     2       0.324   0.75   NO
+  mean S     1-19    0.076   0.30   NO
+  max. D     1-19    0.100   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6RFY8_D6RFY8_HUM  length = 74
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.156   0.51   NO
+  max. Y    25       0.196   0.35   NO
+  max. S    12       0.691   0.75   NO
+  mean S     1-24    0.279   0.30   NO
+  max. D     1-24    0.237   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6R910_D6R910_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.127   0.51   NO
+  max. Y     8       0.034   0.35   NO
+  max. S     3       0.059   0.75   NO
+  mean S     1-7     0.051   0.30   NO
+  max. D     1-7     0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E3SGB4_E3SGB4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.136   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.343   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6REL2_D6REL2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    47       0.261   0.51   NO
+  max. Y    57       0.109   0.35   NO
+  max. S    40       0.145   0.75   NO
+  mean S     1-56    0.052   0.30   NO
+  max. D     1-56    0.080   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6RBG3_D6RBG3_HUM  length = 78
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.339   0.51   NO
+  max. Y    49       0.106   0.35   NO
+  max. S    35       0.388   0.75   NO
+  mean S     1-48    0.056   0.30   NO
+  max. D     1-48    0.081   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5ZGK4_Q5ZGK4_HUM  length = 95
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    41       0.109   0.51   NO
+  max. Y    12       0.050   0.35   NO
+  max. S    89       0.265   0.75   NO
+  mean S     1-11    0.064   0.30   NO
+  max. D     1-11    0.057   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6RHI4_D6RHI4_HUM  length = 82
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.108   0.51   NO
+  max. Y     5       0.042   0.35   NO
+  max. S     2       0.071   0.75   NO
+  mean S     1-4     0.062   0.30   NO
+  max. D     1-4     0.052   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B0QYK0_B0QYK0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.520   0.51   YES
+  max. Y    15       0.204   0.35   NO
+  max. S     8       0.560   0.75   NO
+  mean S     1-14    0.413   0.30   YES
+  max. D     1-14    0.309   0.36   NO
+# Most likely cleavage site between pos. 14 and 15: AAA-QQ
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WDX8_F8WDX8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.096   0.51   NO
+  max. Y     6       0.081   0.35   NO
+  max. S     1       0.332   0.75   NO
+  mean S     1-5     0.202   0.30   NO
+  max. D     1-5     0.141   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WCS2_F8WCS2_HUM  length = 50
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.187   0.51   NO
+  max. Y     7       0.067   0.35   NO
+  max. S     5       0.192   0.75   NO
+  mean S     1-6     0.134   0.30   NO
+  max. D     1-6     0.100   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WB00_F8WB00_HUM  length = 71
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.316   0.51   NO
+  max. Y    30       0.107   0.35   NO
+  max. S    24       0.319   0.75   NO
+  mean S     1-29    0.044   0.30   NO
+  max. D     1-29    0.076   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WDP4_F8WDP4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.349   0.51   NO
+  max. Y    45       0.112   0.35   NO
+  max. S    41       0.228   0.75   NO
+  mean S     1-44    0.089   0.30   NO
+  max. D     1-44    0.101   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6MLA7_D6MLA7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.121   0.35   NO
+  max. S     1       0.564   0.75   NO
+  mean S     1-17    0.222   0.30   NO
+  max. D     1-17    0.172   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_J9UMP6_J9UMP6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.149   0.35   NO
+  max. S     8       0.671   0.75   NO
+  mean S     1-17    0.328   0.30   YES
+  max. D     1-17    0.238   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X5DNH4_X5DNH4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.459   0.51   NO
+  max. Y    35       0.428   0.35   YES
+  max. S    21       0.784   0.75   YES
+  mean S     1-34    0.341   0.30   YES
+  max. D     1-34    0.385   0.36   YES
+# Most likely cleavage site between pos. 34 and 35: SRA-GG
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_N1NTH4_N1NTH4_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.220   0.51   NO
+  max. Y    16       0.082   0.35   NO
+  max. S     1       0.350   0.75   NO
+  mean S     1-15    0.134   0.30   NO
+  max. D     1-15    0.108   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A1Z3E0_A1Z3E0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.224   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.613   0.75   NO
+  mean S     1-17    0.279   0.30   NO
+  max. D     1-17    0.207   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B7Z3G1_B7Z3G1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.305   0.51   NO
+  max. Y    29       0.129   0.35   NO
+  max. S    14       0.285   0.75   NO
+  mean S     1-28    0.089   0.30   NO
+  max. D     1-28    0.109   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5TF55_Q5TF55_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.332   0.51   NO
+  max. Y    34       0.157   0.35   NO
+  max. S    32       0.155   0.75   NO
+  mean S     1-33    0.081   0.30   NO
+  max. D     1-33    0.119   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_J3QKL3_J3QKL3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    80       0.103   0.51   NO
+  max. Y     5       0.031   0.35   NO
+  max. S     1       0.036   0.75   NO
+  mean S     1-4     0.024   0.30   NO
+  max. D     1-4     0.028   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X5D2X6_X5D2X6_HUM  length = 66
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.081   0.51   NO
+  max. Y    40       0.134   0.35   NO
+  max. S    35       0.570   0.75   NO
+  mean S     1-39    0.182   0.30   NO
+  max. D     1-39    0.158   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DGU9_A0A0C4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.159   0.51   NO
+  max. Y    24       0.060   0.35   NO
+  max. S     1       0.113   0.75   NO
+  mean S     1-23    0.033   0.30   NO
+  max. D     1-23    0.047   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5JXH8_Q5JXH8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    38       0.115   0.51   NO
+  max. Y    38       0.096   0.35   NO
+  max. S    31       0.358   0.75   NO
+  mean S     1-37    0.093   0.30   NO
+  max. D     1-37    0.095   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R778_B2R778_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.130   0.51   NO
+  max. Y    39       0.090   0.35   NO
+  max. S    33       0.165   0.75   NO
+  mean S     1-38    0.052   0.30   NO
+  max. D     1-38    0.071   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X6R751_X6R751_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.439   0.51   NO
+  max. Y    30       0.069   0.35   NO
+  max. S     3       0.148   0.75   NO
+  mean S     1-29    0.034   0.30   NO
+  max. D     1-29    0.052   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8W9Y7_F8W9Y7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.249   0.51   NO
+  max. Y    32       0.223   0.35   NO
+  max. S    27       0.610   0.75   NO
+  mean S     1-31    0.289   0.30   NO
+  max. D     1-31    0.256   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6R929_D6R929_HUM  length = 44
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.257   0.51   NO
+  max. Y    15       0.065   0.35   NO
+  max. S    10       0.414   0.75   NO
+  mean S     1-14    0.173   0.30   NO
+  max. D     1-14    0.119   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q24JU4_Q24JU4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.123   0.51   NO
+  max. Y    12       0.076   0.35   NO
+  max. S     9       0.158   0.75   NO
+  mean S     1-11    0.083   0.30   NO
+  max. D     1-11    0.080   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WF03_F8WF03_HUM  length = 50
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.137   0.51   NO
+  max. Y    15       0.103   0.35   NO
+  max. S     2       0.283   0.75   NO
+  mean S     1-14    0.091   0.30   NO
+  max. D     1-14    0.097   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8SY67_F8SY67_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.136   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.343   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R5H0_B2R5H0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    49       0.276   0.51   NO
+  max. Y    49       0.145   0.35   NO
+  max. S    40       0.244   0.75   NO
+  mean S     1-48    0.056   0.30   NO
+  max. D     1-48    0.101   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_J3QQI9_J3QQI9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.174   0.51   NO
+  max. Y    23       0.139   0.35   NO
+  max. S     5       0.819   0.75   YES
+  mean S     1-22    0.382   0.30   YES
+  max. D     1-22    0.261   0.36   NO
+# Most likely cleavage site between pos. 22 and 23: FGD-IY
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R6U8_B2R6U8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    62       0.116   0.51   NO
+  max. Y     7       0.073   0.35   NO
+  max. S     3       0.320   0.75   NO
+  mean S     1-6     0.223   0.30   NO
+  max. D     1-6     0.148   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B0QYC9_B0QYC9_HUM  length = 29
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.164   0.51   NO
+  max. Y    26       0.141   0.35   NO
+  max. S     6       0.529   0.75   NO
+  mean S     1-25    0.214   0.30   NO
+  max. D     1-25    0.178   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B5MD47_B5MD47_HUM  length = 94
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.335   0.51   NO
+  max. Y    32       0.075   0.35   NO
+  max. S     5       0.189   0.75   NO
+  mean S     1-31    0.048   0.30   NO
+  max. D     1-31    0.062   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R6U4_B2R6U4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.173   0.51   NO
+  max. Y    24       0.085   0.35   NO
+  max. S     9       0.233   0.75   NO
+  mean S     1-23    0.053   0.30   NO
+  max. D     1-23    0.069   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DIV0_B4DIV0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.361   0.51   NO
+  max. Y    23       0.203   0.35   NO
+  max. S    10       0.432   0.75   NO
+  mean S     1-22    0.244   0.30   NO
+  max. D     1-22    0.224   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F8WC68_F8WC68_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.266   0.51   NO
+  max. Y    29       0.245   0.35   NO
+  max. S     9       0.705   0.75   NO
+  mean S     1-28    0.339   0.30   YES
+  max. D     1-28    0.292   0.36   NO
+# Most likely cleavage site between pos. 28 and 29: APS-LP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I6Z114_I6Z114_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.160   0.51   NO
+  max. Y    13       0.085   0.35   NO
+  max. S     1       0.387   0.75   NO
+  mean S     1-12    0.152   0.30   NO
+  max. D     1-12    0.119   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5TCI8_Q5TCI8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.267   0.51   NO
+  max. Y    33       0.201   0.35   NO
+  max. S    27       0.488   0.75   NO
+  mean S     1-32    0.121   0.30   NO
+  max. D     1-32    0.161   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I6NS32_I6NS32_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.151   0.35   NO
+  max. S     8       0.677   0.75   NO
+  mean S     1-17    0.336   0.30   YES
+  max. D     1-17    0.243   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I6TEY1_I6TEY1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.152   0.35   NO
+  max. S     8       0.738   0.75   NO
+  mean S     1-17    0.382   0.30   YES
+  max. D     1-17    0.267   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YEJ7_H0YEJ7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.150   0.51   NO
+  max. Y    52       0.101   0.35   NO
+  max. S    49       0.169   0.75   NO
+  mean S     1-51    0.062   0.30   NO
+  max. D     1-51    0.082   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y7Y3_H0Y7Y3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.195   0.51   NO
+  max. Y    39       0.103   0.35   NO
+  max. S    35       0.315   0.75   NO
+  mean S     1-38    0.050   0.30   NO
+  max. D     1-38    0.076   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_M9PAN3_M9PAN3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.131   0.35   NO
+  max. S     8       0.587   0.75   NO
+  mean S     1-17    0.270   0.30   NO
+  max. D     1-17    0.200   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y8R2_H0Y8R2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    36       0.246   0.51   NO
+  max. Y     5       0.038   0.35   NO
+  max. S     1       0.054   0.75   NO
+  mean S     1-4     0.037   0.30   NO
+  max. D     1-4     0.038   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F6XZD3_F6XZD3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    38       0.318   0.51   NO
+  max. Y    38       0.156   0.35   NO
+  max. S    36       0.476   0.75   NO
+  mean S     1-37    0.058   0.30   NO
+  max. D     1-37    0.107   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I6SJ64_I6SJ64_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.153   0.35   NO
+  max. S     8       0.709   0.75   NO
+  mean S     1-17    0.374   0.30   YES
+  max. D     1-17    0.264   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YFG0_H0YFG0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.475   0.51   NO
+  max. Y    42       0.367   0.35   YES
+  max. S    12       0.633   0.75   NO
+  mean S     1-41    0.342   0.30   YES
+  max. D     1-41    0.354   0.36   NO
+# Most likely cleavage site between pos. 41 and 42: RGA-AP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YKJ2_H0YKJ2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.145   0.51   NO
+  max. Y    61       0.082   0.35   NO
+  max. S    44       0.408   0.75   NO
+  mean S     1-60    0.074   0.30   NO
+  max. D     1-60    0.078   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YDQ0_H0YDQ0_HUM  length = 65
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.157   0.51   NO
+  max. Y    11       0.037   0.35   NO
+  max. S     6       0.079   0.75   NO
+  mean S     1-10    0.054   0.30   NO
+  max. D     1-10    0.045   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YMU7_H0YMU7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.456   0.51   NO
+  max. Y    52       0.127   0.35   NO
+  max. S    45       0.404   0.75   NO
+  mean S     1-51    0.087   0.30   NO
+  max. D     1-51    0.107   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y966_H0Y966_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.124   0.51   NO
+  max. Y    42       0.050   0.35   NO
+  max. S    31       0.068   0.75   NO
+  mean S     1-41    0.018   0.30   NO
+  max. D     1-41    0.034   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YN49_H0YN49_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    55       0.092   0.51   NO
+  max. Y    19       0.110   0.35   NO
+  max. S    10       0.376   0.75   NO
+  mean S     1-18    0.174   0.30   NO
+  max. D     1-18    0.142   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B4DTV3_B4DTV3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    23       0.166   0.51   NO
+  max. Y    38       0.060   0.35   NO
+  max. S    36       0.068   0.75   NO
+  mean S     1-37    0.027   0.30   NO
+  max. D     1-37    0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G9FJH7_G9FJH7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.220   0.51   NO
+  max. Y    16       0.087   0.35   NO
+  max. S     1       0.380   0.75   NO
+  mean S     1-15    0.150   0.30   NO
+  max. D     1-15    0.118   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q9BYY6_Q9BYY6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.194   0.51   NO
+  max. Y    22       0.095   0.35   NO
+  max. S     6       0.423   0.75   NO
+  mean S     1-21    0.095   0.30   NO
+  max. D     1-21    0.095   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X5DNU0_X5DNU0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.166   0.51   NO
+  max. Y    47       0.041   0.35   NO
+  max. S    35       0.070   0.75   NO
+  mean S     1-46    0.012   0.30   NO
+  max. D     1-46    0.026   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6IVJ5_Q6IVJ5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    19       0.370   0.51   NO
+  max. Y    39       0.208   0.35   NO
+  max. S    29       0.615   0.75   NO
+  mean S     1-38    0.209   0.30   NO
+  max. D     1-38    0.209   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D6RCA8_D6RCA8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.261   0.51   NO
+  max. Y    52       0.056   0.35   NO
+  max. S     1       0.047   0.75   NO
+  mean S     1-51    0.016   0.30   NO
+  max. D     1-51    0.036   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D7NQW9_D7NQW9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.133   0.51   NO
+  max. Y    18       0.144   0.35   NO
+  max. S     8       0.673   0.75   NO
+  mean S     1-17    0.306   0.30   YES
+  max. D     1-17    0.225   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_V9GYD9_V9GYD9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.167   0.51   NO
+  max. Y    17       0.082   0.35   NO
+  max. S     6       0.166   0.75   NO
+  mean S     1-16    0.104   0.30   NO
+  max. D     1-16    0.093   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q05CX8_Q05CX8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.638   0.51   YES
+  max. Y     5       0.049   0.35   NO
+  max. S     2       0.077   0.75   NO
+  mean S     1-4     0.057   0.30   NO
+  max. D     1-4     0.053   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087X1P3_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    38       0.275   0.51   NO
+  max. Y    65       0.172   0.35   NO
+  max. S    50       0.630   0.75   NO
+  mean S     1-64    0.160   0.30   NO
+  max. D     1-64    0.166   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y876_H0Y876_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    71       0.086   0.51   NO
+  max. Y     5       0.048   0.35   NO
+  max. S     1       0.093   0.75   NO
+  mean S     1-4     0.073   0.30   NO
+  max. D     1-4     0.061   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q15229_Q15229_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.192   0.51   NO
+  max. Y     9       0.040   0.35   NO
+  max. S     5       0.090   0.75   NO
+  mean S     1-8     0.046   0.30   NO
+  max. D     1-8     0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_R4GMX1_R4GMX1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    54       0.126   0.51   NO
+  max. Y    34       0.096   0.35   NO
+  max. S    29       0.366   0.75   NO
+  mean S     1-33    0.099   0.30   NO
+  max. D     1-33    0.097   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WY66_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.275   0.51   NO
+  max. Y    49       0.317   0.35   NO
+  max. S    35       0.903   0.75   YES
+  mean S     1-48    0.338   0.30   YES
+  max. D     1-48    0.328   0.36   NO
+# Most likely cleavage site between pos. 48 and 49: PPA-SS
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_J3QKX7_J3QKX7_HUM  length = 67
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.204   0.51   NO
+  max. Y    17       0.062   0.35   NO
+  max. S    11       0.187   0.75   NO
+  mean S     1-16    0.085   0.30   NO
+  max. D     1-16    0.074   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_R4GMM8_R4GMM8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.135   0.51   NO
+  max. Y    17       0.156   0.35   NO
+  max. S     5       0.834   0.75   YES
+  mean S     1-16    0.586   0.30   YES
+  max. D     1-16    0.371   0.36   YES
+# Most likely cleavage site between pos. 16 and 17: TWA-PG
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D7NNU3_D7NNU3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.431   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.623   0.75   NO
+  mean S     1-17    0.308   0.30   YES
+  max. D     1-17    0.221   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WUI2_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    99       0.350   0.51   NO
+  max. Y    81       0.054   0.35   NO
+  max. S    12       0.193   0.75   NO
+  mean S     1-80    0.038   0.30   NO
+  max. D     1-80    0.046   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WVG4_A0A087  length = 54
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.244   0.51   NO
+  max. Y    22       0.249   0.35   NO
+  max. S    14       0.705   0.75   NO
+  mean S     1-21    0.416   0.30   YES
+  max. D     1-21    0.332   0.36   NO
+# Most likely cleavage site between pos. 21 and 22: ASP-AP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WV67_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    22       0.115   0.51   NO
+  max. Y    55       0.054   0.35   NO
+  max. S    43       0.235   0.75   NO
+  mean S     1-54    0.032   0.30   NO
+  max. D     1-54    0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WYR1_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.546   0.51   YES
+  max. Y    43       0.390   0.35   YES
+  max. S    14       0.787   0.75   YES
+  mean S     1-42    0.330   0.30   YES
+  max. D     1-42    0.360   0.36   YES
+# Most likely cleavage site between pos. 42 and 43: REA-AP
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B5MCV5_B5MCV5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    36       0.247   0.51   NO
+  max. Y    12       0.067   0.35   NO
+  max. S     2       0.209   0.75   NO
+  mean S     1-11    0.084   0.30   NO
+  max. D     1-11    0.075   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q9UL09_Q9UL09_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.327   0.51   NO
+  max. Y    47       0.112   0.35   NO
+  max. S    33       0.179   0.75   NO
+  mean S     1-46    0.056   0.30   NO
+  max. D     1-46    0.084   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_M1LQ10_M1LQ10_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.220   0.51   NO
+  max. Y    16       0.082   0.35   NO
+  max. S     1       0.344   0.75   NO
+  mean S     1-15    0.131   0.30   NO
+  max. D     1-15    0.106   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q8TER1_Q8TER1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    18       0.163   0.51   NO
+  max. Y    44       0.126   0.35   NO
+  max. S    36       0.329   0.75   NO
+  mean S     1-43    0.091   0.30   NO
+  max. D     1-43    0.109   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_U5YEQ6_U5YEQ6_HUM  length = 76
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.410   0.51   NO
+  max. Y    47       0.091   0.35   NO
+  max. S    28       0.080   0.75   NO
+  mean S     1-46    0.027   0.30   NO
+  max. D     1-46    0.059   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WUL4_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.183   0.51   NO
+  max. Y    43       0.052   0.35   NO
+  max. S    30       0.261   0.75   NO
+  mean S     1-42    0.027   0.30   NO
+  max. D     1-42    0.040   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087X270_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.215   0.51   NO
+  max. Y    27       0.095   0.35   NO
+  max. S     4       0.273   0.75   NO
+  mean S     1-26    0.078   0.30   NO
+  max. D     1-26    0.086   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D7NQV0_D7NQV0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.156   0.35   NO
+  max. S     8       0.774   0.75   YES
+  mean S     1-17    0.413   0.30   YES
+  max. D     1-17    0.284   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_M1FWW3_M1FWW3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.148   0.35   NO
+  max. S     8       0.688   0.75   NO
+  mean S     1-17    0.360   0.30   YES
+  max. D     1-17    0.254   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GSG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5FHN1_D5FHN1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.155   0.35   NO
+  max. S     8       0.715   0.75   NO
+  mean S     1-17    0.385   0.30   YES
+  max. D     1-17    0.270   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WWV8_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.548   0.51   YES
+  max. Y    46       0.164   0.35   NO
+  max. S    31       0.443   0.75   NO
+  mean S     1-45    0.147   0.30   NO
+  max. D     1-45    0.156   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q30008_Q30008_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    30       0.099   0.51   NO
+  max. Y    30       0.077   0.35   NO
+  max. S    15       0.251   0.75   NO
+  mean S     1-29    0.063   0.30   NO
+  max. D     1-29    0.070   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H7C131_H7C131_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.228   0.51   NO
+  max. Y    27       0.130   0.35   NO
+  max. S     6       0.241   0.75   NO
+  mean S     1-26    0.119   0.30   NO
+  max. D     1-26    0.124   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087X188_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.394   0.51   NO
+  max. Y    57       0.299   0.35   NO
+  max. S    12       0.874   0.75   YES
+  mean S     1-56    0.446   0.30   YES
+  max. D     1-56    0.372   0.36   YES
+# Most likely cleavage site between pos. 56 and 57: SRA-QE
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H7C2Z0_H7C2Z0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    32       0.310   0.51   NO
+  max. Y    32       0.248   0.35   NO
+  max. S    15       0.676   0.75   NO
+  mean S     1-31    0.252   0.30   NO
+  max. D     1-31    0.250   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_M1VKI9_M1VKI9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    48       0.142   0.51   NO
+  max. Y    48       0.061   0.35   NO
+  max. S    93       0.106   0.75   NO
+  mean S     1-47    0.026   0.30   NO
+  max. D     1-47    0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D1H103_D1H103_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.142   0.51   NO
+  max. Y    13       0.073   0.35   NO
+  max. S     1       0.206   0.75   NO
+  mean S     1-12    0.075   0.30   NO
+  max. D     1-12    0.074   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WZJ8_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.530   0.51   YES
+  max. Y    47       0.105   0.35   NO
+  max. S    37       0.373   0.75   NO
+  mean S     1-46    0.067   0.30   NO
+  max. D     1-46    0.086   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A7C449_A0A0A7  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.124   0.51   NO
+  max. Y    18       0.142   0.35   NO
+  max. S     8       0.672   0.75   NO
+  mean S     1-17    0.304   0.30   YES
+  max. D     1-17    0.223   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_M9P9Y9_M9P9Y9_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.145   0.51   NO
+  max. Y    13       0.095   0.35   NO
+  max. S     1       0.453   0.75   NO
+  mean S     1-12    0.179   0.30   NO
+  max. D     1-12    0.137   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E5RFU9_E5RFU9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.299   0.51   NO
+  max. Y     5       0.044   0.35   NO
+  max. S    35       0.114   0.75   NO
+  mean S     1-4     0.055   0.30   NO
+  max. D     1-4     0.050   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q0P517_Q0P517_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.496   0.51   NO
+  max. Y    51       0.166   0.35   NO
+  max. S    92       0.486   0.75   NO
+  mean S     1-50    0.097   0.30   NO
+  max. D     1-50    0.131   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H7BZ89_H7BZ89_HUM  length = 74
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.087   0.51   NO
+  max. Y    12       0.073   0.35   NO
+  max. S     1       0.266   0.75   NO
+  mean S     1-11    0.134   0.30   NO
+  max. D     1-11    0.104   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6GMV8_Q6GMV8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.588   0.51   YES
+  max. Y    33       0.198   0.35   NO
+  max. S    95       0.247   0.75   NO
+  mean S     1-32    0.076   0.30   NO
+  max. D     1-32    0.137   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D5H3U5_D5H3U5_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    19       0.370   0.51   NO
+  max. Y    43       0.127   0.35   NO
+  max. S    29       0.365   0.75   NO
+  mean S     1-42    0.121   0.30   NO
+  max. D     1-42    0.124   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6P486_Q6P486_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    49       0.230   0.51   NO
+  max. Y    40       0.049   0.35   NO
+  max. S    25       0.076   0.75   NO
+  mean S     1-39    0.031   0.30   NO
+  max. D     1-39    0.040   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6P458_Q6P458_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    49       0.167   0.51   NO
+  max. Y    49       0.050   0.35   NO
+  max. S     1       0.061   0.75   NO
+  mean S     1-48    0.019   0.30   NO
+  max. D     1-48    0.035   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6PJE7_Q6PJE7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    44       0.239   0.51   NO
+  max. Y    15       0.207   0.35   NO
+  max. S     2       0.575   0.75   NO
+  mean S     1-14    0.326   0.30   YES
+  max. D     1-14    0.267   0.36   NO
+# Most likely cleavage site between pos. 14 and 15: RRA-AV
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q7Z5U3_Q7Z5U3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.441   0.51   NO
+  max. Y    45       0.354   0.35   YES
+  max. S    41       0.657   0.75   NO
+  mean S     1-44    0.219   0.30   NO
+  max. D     1-44    0.286   0.36   NO
+# Most likely cleavage site between pos. 44 and 45: ALA-CS
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D3U771_D3U771_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.158   0.35   NO
+  max. S     8       0.725   0.75   NO
+  mean S     1-17    0.398   0.30   YES
+  max. D     1-17    0.278   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0G2JMJ0_A0A0G2  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.271   0.51   NO
+  max. Y    33       0.160   0.35   NO
+  max. S    21       0.494   0.75   NO
+  mean S     1-32    0.072   0.30   NO
+  max. D     1-32    0.116   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0G2R1U0_A0A0G2  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    51       0.188   0.51   NO
+  max. Y    13       0.078   0.35   NO
+  max. S     1       0.229   0.75   NO
+  mean S     1-12    0.081   0.30   NO
+  max. D     1-12    0.080   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0K2GN97_A0A0K2  length = 99
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    47       0.237   0.51   NO
+  max. Y    47       0.082   0.35   NO
+  max. S    92       0.274   0.75   NO
+  mean S     1-46    0.055   0.30   NO
+  max. D     1-46    0.068   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q1RMF0_Q1RMF0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.292   0.51   NO
+  max. Y     4       0.042   0.35   NO
+  max. S     1       0.071   0.75   NO
+  mean S     1-3     0.051   0.30   NO
+  max. D     1-3     0.047   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B7Z5N1_B7Z5N1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.194   0.51   NO
+  max. Y    42       0.165   0.35   NO
+  max. S    34       0.368   0.75   NO
+  mean S     1-41    0.096   0.30   NO
+  max. D     1-41    0.130   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q9UM95_Q9UM95_HUM  length = 52
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.780   0.51   YES
+  max. Y    24       0.351   0.35   YES
+  max. S    12       0.831   0.75   YES
+  mean S     1-23    0.465   0.30   YES
+  max. D     1-23    0.408   0.36   YES
+# Most likely cleavage site between pos. 23 and 24: AAA-RG
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_D1MYX8_D1MYX8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.124   0.51   NO
+  max. Y    18       0.148   0.35   NO
+  max. S     8       0.695   0.75   NO
+  mean S     1-17    0.332   0.30   YES
+  max. D     1-17    0.240   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A6NJF2_A6NJF2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.193   0.51   NO
+  max. Y    43       0.082   0.35   NO
+  max. S     2       0.208   0.75   NO
+  mean S     1-42    0.046   0.30   NO
+  max. D     1-42    0.064   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A087WUK9_A0A087  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.568   0.51   YES
+  max. Y    34       0.340   0.35   NO
+  max. S    23       0.813   0.75   YES
+  mean S     1-33    0.308   0.30   YES
+  max. D     1-33    0.324   0.36   NO
+# Most likely cleavage site between pos. 33 and 34: CAA-AG
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q5RLJ3_Q5RLJ3_HUM  length = 67
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    23       0.214   0.51   NO
+  max. Y    23       0.152   0.35   NO
+  max. S     1       0.503   0.75   NO
+  mean S     1-22    0.157   0.30   NO
+  max. D     1-22    0.154   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B7ZA00_B7ZA00_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.315   0.51   NO
+  max. Y    29       0.206   0.35   NO
+  max. S     4       0.506   0.75   NO
+  mean S     1-28    0.210   0.30   NO
+  max. D     1-28    0.208   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E0YTK7_E0YTK7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.133   0.51   NO
+  max. Y    18       0.147   0.35   NO
+  max. S     8       0.710   0.75   NO
+  mean S     1-17    0.329   0.30   YES
+  max. D     1-17    0.238   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B1A0K4_B1A0K4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.128   0.35   NO
+  max. S     8       0.583   0.75   NO
+  mean S     1-17    0.273   0.30   NO
+  max. D     1-17    0.201   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E0WN46_E0WN46_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.299   0.51   NO
+  max. Y    18       0.129   0.35   NO
+  max. S     8       0.574   0.75   NO
+  mean S     1-17    0.258   0.30   NO
+  max. D     1-17    0.193   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_O19684_O19684_HUM  length = 80
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.144   0.51   NO
+  max. Y     2       0.113   0.35   NO
+  max. S     1       0.498   0.75   NO
+  mean S     1-1     0.498   0.30   YES
+  max. D     1-1     0.306   0.36   NO
+# Most likely cleavage site between pos. 1 and 2: A-VS
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E0WBY4_E0WBY4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.157   0.35   NO
+  max. S     8       0.724   0.75   NO
+  mean S     1-17    0.397   0.30   YES
+  max. D     1-17    0.277   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YAG0_H0YAG0_HUM  length = 94
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    21       0.176   0.51   NO
+  max. Y    16       0.093   0.35   NO
+  max. S    37       0.271   0.75   NO
+  mean S     1-15    0.110   0.30   NO
+  max. D     1-15    0.101   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YIQ7_H0YIQ7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.675   0.51   YES
+  max. Y    17       0.066   0.35   NO
+  max. S     6       0.146   0.75   NO
+  mean S     1-16    0.045   0.30   NO
+  max. D     1-16    0.056   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H2DML6_H2DML6_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.158   0.35   NO
+  max. S     8       0.732   0.75   NO
+  mean S     1-17    0.375   0.30   YES
+  max. D     1-17    0.267   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H2BDP3_H2BDP3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.135   0.35   NO
+  max. S     8       0.619   0.75   NO
+  mean S     1-17    0.307   0.30   YES
+  max. D     1-17    0.221   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_G5CJS3_G5CJS3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.153   0.35   NO
+  max. S     8       0.709   0.75   NO
+  mean S     1-17    0.374   0.30   YES
+  max. D     1-17    0.264   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0Y5S9_H0Y5S9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    42       0.364   0.51   NO
+  max. Y    42       0.346   0.35   NO
+  max. S    30       0.802   0.75   YES
+  mean S     1-41    0.278   0.30   NO
+  max. D     1-41    0.312   0.36   NO
+# Most likely cleavage site between pos. 41 and 42: ATA-NR
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2RD24_B2RD24_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    94       0.165   0.51   NO
+  max. Y    20       0.103   0.35   NO
+  max. S     1       0.325   0.75   NO
+  mean S     1-19    0.093   0.30   NO
+  max. D     1-19    0.098   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H2BDR7_H2BDR7_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.160   0.51   NO
+  max. Y    13       0.085   0.35   NO
+  max. S     1       0.362   0.75   NO
+  mean S     1-12    0.164   0.30   NO
+  max. D     1-12    0.124   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YBF8_H0YBF8_HUM  length = 53
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.421   0.51   NO
+  max. Y    49       0.047   0.35   NO
+  max. S    41       0.148   0.75   NO
+  mean S     1-48    0.031   0.30   NO
+  max. D     1-48    0.039   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YBM1_H0YBM1_HUM  length = 71
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.354   0.51   NO
+  max. Y    19       0.144   0.35   NO
+  max. S     2       0.440   0.75   NO
+  mean S     1-18    0.132   0.30   NO
+  max. D     1-18    0.138   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_I4EPE0_I4EPE0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.251   0.51   NO
+  max. Y     3       0.077   0.35   NO
+  max. S     1       0.301   0.75   NO
+  mean S     1-2     0.202   0.30   NO
+  max. D     1-2     0.139   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R550_B2R550_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    27       0.288   0.51   NO
+  max. Y    34       0.288   0.35   NO
+  max. S    25       0.837   0.75   YES
+  mean S     1-33    0.599   0.30   YES
+  max. D     1-33    0.443   0.36   YES
+# Most likely cleavage site between pos. 33 and 34: ASP-IR
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4MHS7_F4MHS7_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    57       0.214   0.51   NO
+  max. Y    57       0.067   0.35   NO
+  max. S    12       0.158   0.75   NO
+  mean S     1-56    0.035   0.30   NO
+  max. D     1-56    0.051   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F4NBU4_F4NBU4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.165   0.51   NO
+  max. Y    43       0.109   0.35   NO
+  max. S    31       0.324   0.75   NO
+  mean S     1-42    0.074   0.30   NO
+  max. D     1-42    0.092   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H459_F5H459_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.089   0.51   NO
+  max. Y     7       0.040   0.35   NO
+  max. S     3       0.089   0.75   NO
+  mean S     1-6     0.069   0.30   NO
+  max. D     1-6     0.055   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q6MZH4_Q6MZH4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    24       0.229   0.51   NO
+  max. Y     9       0.067   0.35   NO
+  max. S     3       0.287   0.75   NO
+  mean S     1-8     0.126   0.30   NO
+  max. D     1-8     0.097   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_E0WN65_E0WN65_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.145   0.35   NO
+  max. S     8       0.661   0.75   NO
+  mean S     1-17    0.317   0.30   YES
+  max. D     1-17    0.231   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2RB99_B2RB99_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    33       0.258   0.51   NO
+  max. Y    24       0.055   0.35   NO
+  max. S     2       0.110   0.75   NO
+  mean S     1-23    0.036   0.30   NO
+  max. D     1-23    0.046   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H6F1_F5H6F1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    25       0.136   0.51   NO
+  max. Y    10       0.104   0.35   NO
+  max. S     1       0.378   0.75   NO
+  mean S     1-9     0.193   0.30   NO
+  max. D     1-9     0.148   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H020_F5H020_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.125   0.51   NO
+  max. Y    18       0.121   0.35   NO
+  max. S     7       0.461   0.75   NO
+  mean S     1-17    0.176   0.30   NO
+  max. D     1-17    0.149   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A0MSC3_A0A0A0  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.236   0.51   NO
+  max. Y    43       0.046   0.35   NO
+  max. S     1       0.070   0.75   NO
+  mean S     1-42    0.021   0.30   NO
+  max. D     1-42    0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H6Q8_F5H6Q8_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.250   0.51   NO
+  max. Y    20       0.089   0.35   NO
+  max. S     1       0.365   0.75   NO
+  mean S     1-19    0.170   0.30   NO
+  max. D     1-19    0.129   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_Q29969_Q29969_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    34       0.104   0.51   NO
+  max. Y    20       0.062   0.35   NO
+  max. S     7       0.341   0.75   NO
+  mean S     1-19    0.072   0.30   NO
+  max. D     1-19    0.067   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2R858_B2R858_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    36       0.174   0.51   NO
+  max. Y    26       0.195   0.35   NO
+  max. S    10       0.871   0.75   YES
+  mean S     1-25    0.549   0.30   YES
+  max. D     1-25    0.372   0.36   YES
+# Most likely cleavage site between pos. 25 and 26: GGT-QT
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5GZK2_F5GZK2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.334   0.51   NO
+  max. Y    35       0.066   0.35   NO
+  max. S    21       0.057   0.75   NO
+  mean S     1-34    0.020   0.30   NO
+  max. D     1-34    0.043   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_B2RCX4_B2RCX4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    20       0.139   0.51   NO
+  max. Y     3       0.031   0.35   NO
+  max. S    31       0.057   0.75   NO
+  mean S     1-2     0.036   0.30   NO
+  max. D     1-2     0.033   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F1AQN9_F1AQN9_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.271   0.51   NO
+  max. Y    18       0.151   0.35   NO
+  max. S     8       0.680   0.75   NO
+  mean S     1-17    0.339   0.30   YES
+  max. D     1-17    0.245   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H107_F5H107_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.199   0.51   NO
+  max. Y    60       0.159   0.35   NO
+  max. S    42       0.445   0.75   NO
+  mean S     1-59    0.089   0.30   NO
+  max. D     1-59    0.124   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F1CK24_F1CK24_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.093   0.51   NO
+  max. Y     3       0.071   0.35   NO
+  max. S     1       0.263   0.75   NO
+  mean S     1-2     0.172   0.30   NO
+  max. D     1-2     0.121   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A0MST1_A0A0A0  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.188   0.51   NO
+  max. Y    50       0.144   0.35   NO
+  max. S    42       0.415   0.75   NO
+  mean S     1-49    0.087   0.30   NO
+  max. D     1-49    0.116   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5H6V0_F5H6V0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.224   0.51   NO
+  max. Y    35       0.221   0.35   NO
+  max. S     4       0.620   0.75   NO
+  mean S     1-34    0.280   0.30   NO
+  max. D     1-34    0.251   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_U3KQT3_U3KQT3_HUM  length = 46
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    43       0.289   0.51   NO
+  max. Y    43       0.171   0.35   NO
+  max. S    40       0.544   0.75   NO
+  mean S     1-42    0.115   0.30   NO
+  max. D     1-42    0.143   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_X2J3V4_X2J3V4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.156   0.35   NO
+  max. S     8       0.717   0.75   NO
+  mean S     1-17    0.388   0.30   YES
+  max. D     1-17    0.272   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_W8NKP1_W8NKP1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.123   0.35   NO
+  max. S     8       0.529   0.75   NO
+  mean S     1-17    0.252   0.30   NO
+  max. D     1-17    0.188   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0B5ISY2_A0A0B5  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    36       0.366   0.51   NO
+  max. Y    62       0.304   0.35   NO
+  max. S    55       0.833   0.75   YES
+  mean S     1-61    0.211   0.30   NO
+  max. D     1-61    0.257   0.36   NO
+# Most likely cleavage site between pos. 61 and 62: AAA-AP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F5GZQ2_F5GZQ2_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    93       0.109   0.51   NO
+  max. Y    28       0.079   0.35   NO
+  max. S    13       0.285   0.75   NO
+  mean S     1-27    0.096   0.30   NO
+  max. D     1-27    0.087   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_F1CCS0_F1CCS0_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.133   0.51   NO
+  max. Y    18       0.158   0.35   NO
+  max. S     8       0.713   0.75   NO
+  mean S     1-17    0.338   0.30   YES
+  max. D     1-17    0.248   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_C7FDQ4_C7FDQ4_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.195   0.51   NO
+  max. Y    18       0.155   0.35   NO
+  max. S     8       0.652   0.75   NO
+  mean S     1-17    0.315   0.30   YES
+  max. D     1-17    0.235   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_U3KQV3_U3KQV3_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    35       0.177   0.51   NO
+  max. Y    15       0.077   0.35   NO
+  max. S     3       0.315   0.75   NO
+  mean S     1-14    0.109   0.30   NO
+  max. D     1-14    0.093   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D9SEI7_A0A0D9  length = 56
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    46       0.257   0.51   NO
+  max. Y    46       0.287   0.35   NO
+  max. S    40       0.624   0.75   NO
+  mean S     1-45    0.218   0.30   NO
+  max. D     1-45    0.252   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DG94_A0A0C4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    28       0.124   0.51   NO
+  max. Y     8       0.053   0.35   NO
+  max. S     8       0.156   0.75   NO
+  mean S     1-7     0.128   0.30   NO
+  max. D     1-7     0.091   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DDZ8_A0A0E3  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    51       0.188   0.51   NO
+  max. Y    13       0.069   0.35   NO
+  max. S     1       0.186   0.75   NO
+  mean S     1-12    0.065   0.30   NO
+  max. D     1-12    0.067   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DDP6_A0A0E3  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.251   0.51   NO
+  max. Y     3       0.077   0.35   NO
+  max. S     1       0.303   0.75   NO
+  mean S     1-2     0.203   0.30   NO
+  max. D     1-2     0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0C4DFQ1_A0A0C4  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    48       0.338   0.51   NO
+  max. Y    48       0.340   0.35   NO
+  max. S    41       0.799   0.75   YES
+  mean S     1-47    0.447   0.30   YES
+  max. D     1-47    0.394   0.36   YES
+# Most likely cleavage site between pos. 47 and 48: EPA-AP
+# Potential Tat signal peptide but No Tat motif was found 
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0D9SG61_A0A0D9  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    37       0.288   0.51   NO
+  max. Y    37       0.273   0.35   NO
+  max. S    21       0.648   0.75   NO
+  mean S     1-36    0.302   0.30   YES
+  max. D     1-36    0.288   0.36   NO
+# Most likely cleavage site between pos. 36 and 37: SWG-NG
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_L0BXL3_L0BXL3_HUM  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    29       0.251   0.51   NO
+  max. Y     3       0.077   0.35   NO
+  max. S     1       0.303   0.75   NO
+  mean S     1-2     0.203   0.30   NO
+  max. D     1-2     0.140   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H7BYZ1_H7BYZ1_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.212   0.51   NO
+  max. Y    17       0.086   0.35   NO
+  max. S    73       0.344   0.75   NO
+  mean S     1-16    0.132   0.30   NO
+  max. D     1-16    0.109   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DCN2_A0A0E3  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.150   0.51   NO
+  max. Y    16       0.102   0.35   NO
+  max. S     7       0.538   0.75   NO
+  mean S     1-15    0.203   0.30   NO
+  max. D     1-15    0.153   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H7BZ33_H7BZ33_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    39       0.175   0.51   NO
+  max. Y    24       0.085   0.35   NO
+  max. S     6       0.412   0.75   NO
+  mean S     1-23    0.145   0.30   NO
+  max. D     1-23    0.115   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DBZ1_A0A0E3  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    40       0.403   0.51   NO
+  max. Y    18       0.153   0.35   NO
+  max. S     8       0.704   0.75   NO
+  mean S     1-17    0.372   0.30   YES
+  max. D     1-17    0.263   0.36   NO
+# Most likely cleavage site between pos. 17 and 18: GRG-EP
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_H0YJ92_H0YJ92_HUM  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    31       0.088   0.51   NO
+  max. Y    11       0.042   0.35   NO
+  max. S     9       0.079   0.75   NO
+  mean S     1-10    0.050   0.30   NO
+  max. D     1-10    0.046   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0E3DCR6_A0A0E3  length = 89
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    45       0.145   0.51   NO
+  max. Y    16       0.097   0.35   NO
+  max. S     7       0.487   0.75   NO
+  mean S     1-15    0.178   0.30   NO
+  max. D     1-15    0.137   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_L0BXX2_L0BXX2_HUM  length = 87
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    51       0.188   0.51   NO
+  max. Y    13       0.130   0.35   NO
+  max. S     8       0.461   0.75   NO
+  mean S     1-12    0.288   0.30   NO
+  max. D     1-12    0.209   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
+//
+>tr_A0A0A0MSY6_A0A0A0  length = 100
+# Measure  Position  Value  Cutoff  Tat signal peptide?
+  max. C    26       0.198   0.51   NO
+  max. Y    26       0.074   0.35   NO
+  max. S    11       0.292   0.75   NO
+  mean S     1-25    0.052   0.30   NO
+  max. D     1-25    0.063   0.36   NO
+# Used regex: RR.[FGAVML][LITMVF]
