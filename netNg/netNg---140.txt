@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Job status of 57203F53000048AB6A0862CA</span></title></head>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/js/webface.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	launchcheck('queued','57203F53000048AB6A0862CA','http://www.cbs.dtu.dk/cgi-bin/webface2.fcgi',20);
+});
+</script>
+</head>
+<body>
+<!-- jobid: 57203F53000048AB6A0862CA status: queued -->
+<H1>Your job 57203F53000048AB6A0862CA is <span name="status">queued</span></H1>
+<br>
+The system will email 1179066213@qq.com when the job has finished
+<form>
+	Send me email when job finishes
+	<input type="hidden" name="jobid" value="57203F53000048AB6A0862CA">
+	<input type="text" name="email" value="">
+	<input type="hidden" name="wait" value="">
+	<input type="submit" name="submit" value="Send email">
+</form>
+<div id="progress"></div>
+<noscript>This page should reload automatically. Otherwise <a href="http://www.cbs.dtu.dk//cgi-bin/webface2.fcgi?jobid=57203F53000048AB6A0862CA">click here</a>
+</noscript>
+</body>
+</html>
